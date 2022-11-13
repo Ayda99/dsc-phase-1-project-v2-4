@@ -1,4 +1,5 @@
 # dsc-phase-1-project-v2-4
+![lead-image-movie-tv-show-templates2-03-1656022265](https://user-images.githubusercontent.com/111934584/201550912-ab431fdb-9e6c-42fe-adf3-af4434b4aa3d.jpeg)
 
 # Project Description
 
