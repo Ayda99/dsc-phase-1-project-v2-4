@@ -17,7 +17,10 @@ Use exploratory data analysis to generate insights for a business stakeholder. M
 # Questions Addressed, Visualization and recommendations 
 
 1. What is the highest gross profit obtained for movies?
+
    * The highest profit is around 1.5 billion
+
+
 ![new_fig](https://user-images.githubusercontent.com/111934584/201550424-9095999d-cff5-49c0-9650-05ac1a20456e.png)
 
 2. Which Genres has the most movies produced?¶
