@@ -17,32 +17,33 @@ Use exploratory data analysis to generate insights for a business stakeholder. M
 # Questions Addressed, Visualization and recommendations 
 
 1. What is the highest gross profit obtained for movies?
-
-    * The highest profit is around 1.5 billion
-![garph](/users/aydabwg/Desktop/new_fig)
+   * The highest profit is around 1.5 billion
+![new_fig](https://user-images.githubusercontent.com/111934584/201550424-9095999d-cff5-49c0-9650-05ac1a20456e.png)
 
 2. Which Genres has the most movies produced?¶
 
     * The genre with alot of movies produced is Documentary followed with Drama
-!(/users/aydabwg/Desktop/new_fig_1)
+![new_fig_1](https://user-images.githubusercontent.com/111934584/201550451-da47907b-d410-440c-a8ff-39c88f9d019d.png)
+
 
 3. Does movie genres and movie rating have correlation?
 
     * As per the data genre with most movie and rating is showing some correlation 
     * The highest rated movies are somewhere in Documentary and Drama
-!(/users/aydabwg/Desktop/new_fig_2)
+![new_fig_2](https://user-images.githubusercontent.com/111934584/201550472-15eb2b07-486e-48f7-a36e-c5d8b2a75025.png)
+
 
 4. Does Genres and gross of profit have any correlation?
 
     * Amount of movies in genre does not correlate to gross profit
     * The genre with the most profit is Fantasy/Romance , Adventure/Drama
-!(/users/aydabwg/Desktop/new_fig_3)
+![new_fig_3](https://user-images.githubusercontent.com/111934584/201550483-03478e11-fc49-4de4-a490-6034da6b7423.png)
 
 5. What is the rating of each Genres with high gross profit?
 
     *  data is indicating that average rating does not have an impact on the gross profit of the movie produced
     * The highest profited movie genre has a rating close to 6
-!(/users/aydabwg/Desktop/new_fig_4)
+![new_fig_4](https://user-images.githubusercontent.com/111934584/201550499-c6e0f2bd-d031-4eea-a604-80325a0b10ba.png)
 
 # Conclusion
 
