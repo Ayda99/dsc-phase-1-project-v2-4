@@ -23,6 +23,7 @@ Use exploratory data analysis to generate insights for a business stakeholder. M
 2. Which Genres has the most movies produced?¶
 
     * The genre with alot of movies produced is Documentary followed with Drama
+   
 ![new_fig_1](https://user-images.githubusercontent.com/111934584/201550451-da47907b-d410-440c-a8ff-39c88f9d019d.png)
 
 
@@ -30,6 +31,7 @@ Use exploratory data analysis to generate insights for a business stakeholder. M
 
     * As per the data genre with most movie and rating is showing some correlation 
     * The highest rated movies are somewhere in Documentary and Drama
+    
 ![new_fig_2](https://user-images.githubusercontent.com/111934584/201550472-15eb2b07-486e-48f7-a36e-c5d8b2a75025.png)
 
 
@@ -37,12 +39,14 @@ Use exploratory data analysis to generate insights for a business stakeholder. M
 
     * Amount of movies in genre does not correlate to gross profit
     * The genre with the most profit is Fantasy/Romance , Adventure/Drama
+    
 ![new_fig_3](https://user-images.githubusercontent.com/111934584/201550483-03478e11-fc49-4de4-a490-6034da6b7423.png)
 
 5. What is the rating of each Genres with high gross profit?
 
     *  data is indicating that average rating does not have an impact on the gross profit of the movie produced
     * The highest profited movie genre has a rating close to 6
+    
 ![new_fig_4](https://user-images.githubusercontent.com/111934584/201550499-c6e0f2bd-d031-4eea-a604-80325a0b10ba.png)
 
 # Conclusion
