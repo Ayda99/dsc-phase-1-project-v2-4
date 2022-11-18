@@ -17,44 +17,54 @@ Use exploratory data analysis to generate insights for a business stakeholder. M
 
 # Questions Addressed, Visualization and recommendations 
 
-1. What is the highest gross profit obtained for movies?
+1. What is the Gross profit Margin for movies?
 
-   * The highest profit is around 1.5 billion
+   * The highest Gross profit Margin is around 1.5 billion
+   * The Gross profit is the combination of foreign and domestic profit
 
-
-![new_fig](https://user-images.githubusercontent.com/111934584/201550424-9095999d-cff5-49c0-9650-05ac1a20456e.png)
-
-2. Which Genres has the most movies produced?¶
-
-    * The genre with alot of movies produced is Documentary followed with Drama
-   
-![new_fig_1](https://user-images.githubusercontent.com/111934584/201550451-da47907b-d410-440c-a8ff-39c88f9d019d.png)
+![new_fig](https://user-images.githubusercontent.com/111934584/202630160-a19ccd3d-cdae-4243-b299-59baf06b3221.jpg)
+  * The foreign Profit contributes much higher than domestic profit towards Total Profit
+  * Based on this Marketing strategy should focus on distribution the movie worldwide to obtain high profit margin
+![new_fig2](https://user-images.githubusercontent.com/111934584/202630683-5b7714a4-bb5d-4d7e-ba40-1b56609b408c.png)
 
 
-3. Does movie genres and movie rating have correlation?
+2. Which Genre of movies should be considered for production?
 
-    * As per the data genre with most movie and rating is showing some correlation 
-    * The highest rated movies are somewhere in Documentary and Drama
+    * Most industries produce movies in Documentary or Drama Genre
+   ![new_fig3](https://user-images.githubusercontent.com/111934584/202630799-6051d886-658b-4813-81ea-2c18366b5a43.png)
+    * If a companys aim is to compete against other companies in the industry they should produce Document/Drama genre movies
+    * But if the aim of the company is to earn income money they should focus on high earning genre Fantasy/Romance
     
-![new_fig_2](https://user-images.githubusercontent.com/111934584/201550472-15eb2b07-486e-48f7-a36e-c5d8b2a75025.png)
+![new_fig4](https://user-images.githubusercontent.com/111934584/202631040-594bdef9-6630-44e4-b5de-71001cabbd28.png)
 
 
-4. Does Genres and gross of profit have any correlation?
+3. what should be the runtime of the movie produced?
 
-    * Amount of movies in genre does not correlate to gross profit
-    * The genre with the most profit is Fantasy/Romance , Adventure/Drama
+    * The most common runtime for a movie is somewhere between 75-100 minutes
+![new_fig5](https://user-images.githubusercontent.com/111934584/202631243-050c366a-f2e5-4592-9b99-22113930917f.png)
+
+    * If the company is focused getting high average rating from audience they should aim for this movie to have an average of 75-100 minute runtime
     
-![new_fig_3](https://user-images.githubusercontent.com/111934584/201550483-03478e11-fc49-4de4-a490-6034da6b7423.png)
-
-5. What is the rating of each Genres with high gross profit?
-
-    *  data is indicating that average rating does not have an impact on the gross profit of the movie produced
-    * The highest profited movie genre has a rating close to 6
+    ![new_fig6](https://user-images.githubusercontent.com/111934584/202631496-39442170-b5e2-4aa4-99ec-f8a93e9c8107.png)
     
-![new_fig_4](https://user-images.githubusercontent.com/111934584/201550499-c6e0f2bd-d031-4eea-a604-80325a0b10ba.png)
+    * Movies that have high ratings have runtime between 75-100 minutes. so Companies should aim to make thier move runtime between 75-100 minutes to potentially get high ratings
+    
+
+4. Who is the best director/producer to hire for production of the movie?
+
+    * One frequent question that will asked in starting a movie production studio is who to hire in the production team.
+    * Producers with experience that have spent alot of year in film production industry will be the best chose
+    * This produces will have experience producing and directiong a large number of movies
+
+
+    ![new_fig7](https://user-images.githubusercontent.com/111934584/202632067-3b904684-917d-4648-9536-f52f9ac2f595.png)
+
+    * If the company is looking to hire a producer i suggest to higher someone who has experience producing large number of movie
+    * my suggestion would be producers like Tony Newton,Jason impey or Shane ryan
+
 
 # Conclusion
 
-As per the data exploring, We were able to observe what reasonable measure to account for in determining a succesful movie is a combination of different factors.From all the observations made, I have suggested that Microsoft's new movie studio focuses on genre that is making the most profit. By choosing this Microsoft's new movie studio would be able to set thier budget, target thier audience and estimate how much profit they could obtain.
+As per the data exploring, We were able to observe what reasonable measure to account for in determining a succesful movie is a combination of different factors.From all the analysis made so far,I would suggest the company to have a marketing team that uses strategy to advertise movies worldwide to gain increased profit. I would suggest for the company to decide what approach they would choose in deciding movie genre; if they want to compete with other industries focus on producing Documentray/Drama but if the focus is to earn income focus on Fantasy/Romance. I would suggest the comapny aims to have thier movie runtime be between 75-100minutes for possible high rating. and finally i would suggest the company to higher a producer with a lot of experience in the movie industry such as Tony Newton who has produced more than 200 movies. 
     
     
